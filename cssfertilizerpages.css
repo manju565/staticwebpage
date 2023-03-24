@@ -1,0 +1,17 @@
+#fertilizerinfo{
+    background-image: url('fertilizer-back.jpg');height: 1080px; width: 1550px;
+    text-align: center;font-weight: bolder;font-variant: inherit;font-style: initial;
+    color: brown;
+}
+#content1{ text-align: justify; font-size: 25px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#heading{
+    text-align: start; font-size: 35px; font-family: sans-serif;
+    font-style: italic; color: darkgreen;
+}
+pre{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}

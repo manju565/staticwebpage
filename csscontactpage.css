@@ -1,0 +1,20 @@
+#GETINTOUCH{
+    background-image: url('phone.jpg');height: 1080px;width: 1621px;
+    font-size: 500%;font-style: initial;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;text-shadow: 25%;color: rgb(132, 159, 183);
+    margin-top: -7%; margin-right: auto; margin-right: -7%;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#number{
+    font-weight: lighter; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#email{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#working-hours{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

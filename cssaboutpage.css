@@ -1,0 +1,65 @@
+#image{ background-image: url('slide-2.jpg') ;
+    width: 1366px; height: 768px;
+    
+
+}
+
+
+pre
+{ font-family: fantasy; 
+    font-size: 400%; font-style: oblique;
+    margin-top: -13%;
+    margin-left: -18%;
+    padding-left: 20%;
+}
+p{
+    margin-top: 25%;
+}
+#in{
+    text-align: justify;
+    margin-top: 32%;
+    font-size: 25px; font-family: sans-serif;
+}
+
+#intwo{
+    text-align: justify;
+    margin-top: -25%;
+    font-size: 25px; font-family:sans-serif
+}
+
+
+#inthree{
+    text-align: justify;
+    margin-top: -25%;
+    font-size: 25px; font-family: sans-serif;
+}
+
+
+#infour{ text-align: justify;
+    margin-top: -25%;
+    font-size: 25px; font-family:sans-serif
+}
+
+#MISSION{
+    margin-top: -50%;
+    margin-left: -18%;
+    padding-left: 20%;
+}
+#slog{
+    margin-top: -75%;
+    margin-left: 85px;
+    font-family: monospace;font-size: 250%;
+     color: rgb(211, 51, 26);
+     text-decoration: dotted;
+}
+#vision{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+    font-variant: inherit;
+    margin-top: 410px;
+}
+#visioncontent{
+    font-size: 150%; font-family: cursive;
+    margin-top: -55px;
+}
+
